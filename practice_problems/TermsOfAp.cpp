@@ -5,7 +5,6 @@
 using namespace std;
 
 int main() {
-	// Write your code here
 	int N;
 	cin >> N;
 	int i = 1;

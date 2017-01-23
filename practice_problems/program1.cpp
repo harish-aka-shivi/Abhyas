@@ -13,7 +13,6 @@ Input format :
 using namespace std;
 
 int main() {
-	// Write your code here
 	int N,choice;
 	cin >> N;
 	cin >> choice;
