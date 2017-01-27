@@ -1,3 +1,7 @@
+// Finding the square root of a number(only the integer part)
+//sample input : 10
+// output : 3 
+
 #include<iostream>
 using namespace std;
 
