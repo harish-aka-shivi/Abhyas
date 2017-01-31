@@ -3,11 +3,12 @@ using namespace std;
 
 
 int mergeTwoArrays(int a[],int b[],int sizeA,int sizeB) {
-    cout << "size A + size B" << sizeA+sizeB;
+    cout << "size A + size B" << sizeA+sizeB << endl;
     int ans[20];
-    int i,j = 0;
+    int i= 0;
+    int j = 0;
     int k = 0;
-    while (i < sizeA && j <sizeB) {
+    while (i <   sizeA && j <sizeB) {
       if(a[i] < b[j]) {
         ans[k] = a[i];
         i++;
@@ -17,7 +18,6 @@ int mergeTwoArrays(int a[],int b[],int sizeA,int sizeB) {
         j++;
         k++;
       }
-
     }
     while (i < sizeA) {
       ans[k] = a[i];
