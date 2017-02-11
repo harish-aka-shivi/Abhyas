@@ -174,7 +174,7 @@ int main() {
       i++;
     }
     char c[100];
-    getsubstring(a,j,i-1,c);
+    getsubstring(a,j,i-1  ,c);
     reverseWords(c);
   //cout << a;
 

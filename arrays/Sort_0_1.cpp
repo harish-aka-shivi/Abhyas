@@ -40,23 +40,7 @@ void SortZeroesAndOne(int arr[], int n){
     }
 
 
-      // if(arr[k] == 0 ) {
-	    //     int temp = arr[i];
-	    //     arr[i] = arr[k];
-	    //     arr[k] = temp;
-	    //     i++;
-	    //     k++;
-	    //     //printArray(arr,n);
-	    // }
-	    // else if(arr[k] == 1) {
-	    //     int temp = arr[j];
-	    //     arr[j] = arr[k];
-	    //     arr[k] = temp;
-	    //     j--;
-	    //     k++;
-	        //printArray(arr,n);
-	    //}
-    //}
+
   }
 
 int main() {
@@ -70,3 +54,39 @@ int main() {
   }
   SortZeroesAndOne(arr,n);
 }
+
+
+// there is one another way
+// This one here sort an array of 1 0 and 2. 
+// static void sort012(int a[], int arr_size)
+//     {
+//         int lo = 0;
+//         int hi = arr_size - 1;
+//         int mid = 0,temp=0;
+//         while (mid <= hi)
+//         {
+//             switch (a[mid])
+//             {
+//             case 0:
+//             {
+//                 temp   =  a[lo];
+//                 a[lo]  = a[mid];
+//                 a[mid] = temp;
+//                 lo++;
+//                 mid++;
+//                 break;
+//             }
+//             case 1:
+//                 mid++;
+//                 break;
+//             case 2:
+//             {
+//                 temp = a[mid];
+//                 a[mid] = a[hi];
+//                 a[hi] = temp;
+//                 hi--;
+//                 break;
+//             }
+//             }
+//         }
+//     }
