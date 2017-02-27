@@ -2,6 +2,15 @@
 using namespace std;
 
 
+void printArray(int arr[], int n) {
+	int l = 0;
+
+	while(l < n) {
+			cout << arr[l] << " ";
+			l++;
+	}
+}
+
 // arr - input array
 // n - size of array
 void InsertionSort(int arr[], int n){
@@ -13,7 +22,7 @@ void InsertionSort(int arr[], int n){
 	        if(arr[j]>temp) {
 	            arr[j+1] = arr[j];
 							arr[j] = 0;
-	            cout << " arr[j+1] " << arr[j]<< " "<< arr[j+1] << endl;
+	            //cout << " arr[j+1] " << arr[j]<< " "<< arr[j+1] << endl;
 	        }else {
 	            break;
 	        }
@@ -22,12 +31,7 @@ void InsertionSort(int arr[], int n){
 	    arr[j] = temp;
 		}
 
-		int l = 0;
-
-    while(l < n) {
-        cout << arr[l] << " ";
-        l++;
-    }
+		//printArray(arr,n);
 
 }
 
