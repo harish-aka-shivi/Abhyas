@@ -82,3 +82,75 @@ bool checkPalindrome(char input[]) {
 
     //cout << i << endl;
 }
+
+//Input format : Numeric string (string, Eg. "1234")
+//Output format : Corresponding integer (int, Eg. 1234)
+//start with in input and 0;
+int stringToNumberRec(char input[], int start) {
+    if(input[start] == '\0') {
+        return 0;
+    }
+    int  len = 0;
+    while(input[len] != '\0') {
+        len++;
+    }
+    int tenMultiple = 1;
+    for(int i= start; i < len-1; i++) {
+        tenMultiple = tenMultiple*10;
+
+    }
+
+    char num = input[start];
+    int num1 = (num - '\0')%48;
+
+    return num1*tenMultiple + stringToNumberRec(input,start+1);
+
+}
+
+// removing x
+//xaxb
+// Change in the given string itself. So no need to return or print anything
+void removeXRecurse(char input[],int start) {
+    if(input[start] == '\0') {
+        return;
+    }
+    int len = 0;
+    while(input[len] != '\0') {
+        len++;
+    }
+    if(input[start] == 'x') {
+        for(int i = start; i <len;i++) {
+            input[i] = input[i+1];
+        }
+        removeXRecurse(input,start);
+    } else {
+        removeXRecurse(input,start+1);
+    }
+}
+
+//adding * between consecutive similar characters
+// hello --> hel*lo
+void pairStarRecurse(char input[], int start, int len) {
+    if(input[start] == '\0') {
+        return;
+    }
+    if(input[start] == input[start+1]) {
+        // move everything to right and insert star
+        for(int i = len-1; i > start; i--) {
+            input[i+1] = input[i];
+        }
+        input[start+1] = '*';
+        len++;
+        pairStarRecurse(input,start+2,len);
+    } else {
+        pairStarRecurse(input,start+1,len);
+    }
+}
+    void pairStar(char input[]) {
+    int len = 0;
+    while(input[len] != '\0') {
+        len++;
+    }
+    pairStarRecurse(input,0,len);
+
+}
