@@ -46,7 +46,7 @@ int main() {
 int demo() {
   int const x = 10;
   int i = 10;
-  int const &j = 1;
+  int const &j = i;
 
   i++;// possibe
   j++; // not possible
