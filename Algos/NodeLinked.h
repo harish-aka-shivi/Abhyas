@@ -11,4 +11,13 @@ public:
     next = NULL;
   }
 
+  // delete recursively
+  // when the user provide head it delete the whole list
+  //Check when deleting the single node.
+  ~Node() {
+    if(next != null) {
+      delete next;
+    }
+  }
+
 };
