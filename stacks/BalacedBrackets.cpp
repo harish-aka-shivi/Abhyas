@@ -11,7 +11,7 @@ bool isBalanced(char* input) {
     if(input[i] == '(' ||
       input[i] == '[' ||
       input[i] == '{') {
-        s.push()
+        s.push();
       }
   }
 }
