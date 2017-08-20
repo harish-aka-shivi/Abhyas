@@ -30,9 +30,20 @@ It implements the google's  page rank(initial implementation) algorithm to to re
     * [Original paper](http://infolab.stanford.edu/~backrub/google.html)
     
 * [Basic Searching and Sorting Algorithm](https://github.com/harish-aka-shivi/Abhyas/tree/master/searching_sorting)
+
 * [Resume](https://github.com/harish-aka-shivi/Abhyas/tree/master/mooc_projects/resume)
   * Course followed: 
      * [Intro to javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+* [Blog](https://github.com/harish-aka-shivi/Abhyas/tree/master/misc_projects/Blog)
+  * A fully featured(lacking fancy UI) blog services which allows users to maintain account,read blog posted by all the users and 
+   it is desingned keeping scaling in mind.
+  * It harness the power of Google App Engine to serve the content really effectively.
+  * User Google Datastore to persist data and memcache to cache the content.
+  
+  * Course followed:
+      * [Web Development](https://in.udacity.com/course/web-development--cs253)
+      
      
 ## TODOs
 
