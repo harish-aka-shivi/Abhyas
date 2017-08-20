@@ -23,11 +23,11 @@ So understanding the implementation goes a long way in our journey as software d
 
 * [Search Engine](https://github.com/harish-aka-shivi/Abhyas/tree/master/mooc_projects/search_engine)
 
-Fully working search engine made in python.
-It implements the google's  page rank(initial implementation) algorithm to to refine the give the relevant searc reslts.
+  * Fully working search engine made in python.
+  * It implements the google's  page rank(initial implementation) algorithm to to refine the give the relevant searc reslts.
   * #### Resources
-    * [Intro to computer scince](https://www.udacity.com/course/intro-to-computer-science--cs101)
-    * [Original paper](http://infolab.stanford.edu/~backrub/google.html)
+     * [Intro to computer scince](https://www.udacity.com/course/intro-to-computer-science--cs101)
+      * [Original paper](http://infolab.stanford.edu/~backrub/google.html)
     
 * [Basic Searching and Sorting Algorithm](https://github.com/harish-aka-shivi/Abhyas/tree/master/searching_sorting)
 
