@@ -32,7 +32,8 @@ class map {
 	bool isEmpty() {
 		return size() == 0;
 	}
-
+	
+	//getting a evenly distributed map index
 	int getBucketIndex(char* key) {
 		int sum = 0;
 		int currentPower = 1;
