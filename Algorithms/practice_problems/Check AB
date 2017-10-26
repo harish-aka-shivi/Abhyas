@@ -1,0 +1,63 @@
+//input
+//a. The string begins with an 'a'
+//b. Each 'a' is followed by nothing or an 'a' or "bb"
+//c. Each "bb" is followed by nothing or an 'a'
+
+#include <iostream>
+using namespace std;
+
+bool checkABRec(char input[],int start,int len) {
+    
+    if(input[0] != 'a') {
+        return false;
+    }
+    
+    if(start == len-1) {
+        return true;
+    }
+    
+    // if(start < len-2 && input[start] == 'a' && input[start+1] == 'a' && start < len-2 && input[start] == 'a' && input[start+1] == 'b' && input[start+2] == 'b') {
+    //      //continue;
+    //      //true
+    //      return false;
+    // }
+    
+    if(start < len-2) {
+        if(input[start] == 'a'&& input[start+1] == 'b' && input[start + 2] != 'b') {
+            return false;
+        }
+    }
+    // else if() {
+    //     //cout << "first if"<< endl;
+    //     //continue;
+    //     //true
+    // }
+    
+    if(start == len-2&& input[start] == 'a' && input[start+1] != 'a') {
+        //cout << "2 if"<< endl;
+        return false;
+    }
+
+    if(start < len-2 && input[start] == 'b' && input[start+1] == 'b' && input[start+2] != 'a') {
+        //cout << "3 if"<< endl;
+        return false;
+    }
+    
+    
+    
+    return true && checkABRec(input,start+1,len);
+    
+    
+}
+
+bool checkAB(char input[]) {
+	int len = 0;
+	while(input[len] != '\0') {
+	    len++;
+	}
+	
+	return checkABRec(input,0,len);
+
+}
+
+

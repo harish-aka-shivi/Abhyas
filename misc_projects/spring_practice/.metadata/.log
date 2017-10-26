@@ -2281,3 +2281,662 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.jdt.core 2 0 2017-10-02 14:29:31.773
 !MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2017-10-06 11:12:45.647 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.316
+!MESSAGE NLS unused message: add_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.317
+!MESSAGE NLS unused message: bp_conditional in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.317
+!MESSAGE NLS unused message: bp_conditonal in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_entry_and_exit in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_entry_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_exit_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_line_number in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.333
+!MESSAGE NLS unused message: bp_suspend_vm in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.334
+!MESSAGE NLS unused message: breakpoint_configuration in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.334
+!MESSAGE NLS unused message: connect in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.334
+!MESSAGE NLS unused message: connector in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.334
+!MESSAGE NLS unused message: connector_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: creating_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: enable_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: enter_new_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: exception_occurred_setting_bp_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: hit_count_must_be_positive in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.335
+!MESSAGE NLS unused message: no_description_provided in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.336
+!MESSAGE NLS unused message: scripts in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.336
+!MESSAGE NLS unused message: select_javascript_file in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.336
+!MESSAGE NLS unused message: set_bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.336
+!MESSAGE NLS unused message: suspend_target in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.336
+!MESSAGE NLS unused message: suspend_thread in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.337
+!MESSAGE NLS unused message: the_argument_0_is_not_valid in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-06 11:13:06.337
+!MESSAGE NLS unused message: osgi.nls.warnings in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.082
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/gargoylesoftware/htmlunit/SgmlPage$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.342
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/gargoylesoftware/htmlunit/html/HtmlFileInput.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.836
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/cache/LocalCache$EntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.845
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/cache/LocalCache$Values.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.853
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/cache/LocalCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.865
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapEntries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.877
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/AbstractMapBasedMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.878
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/AbstractMapBasedMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.886
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/AbstractTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.888
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ArrayTable$ArrayMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.892
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ArrayTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.896
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/CollectCollectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.896
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/CollectSpliterators$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.897
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/CollectSpliterators$1FlatMapSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.899
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Collections2$FilteredCollection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.900
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Collections2$TransformedCollection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.902
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Comparators.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.929
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/HashBiMap$Inverse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.934
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableEnumMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.936
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.938
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableListMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.940
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.942
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableMapKeySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.942
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableMapValues.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.945
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.946
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.951
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSet$Indexed.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.954
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSetMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.954
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSortedAsList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.955
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSortedMap$1EntrySet$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.956
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSortedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.958
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableSortedMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.961
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/ImmutableTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.962
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Iterables$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.963
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Iterables$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.964
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Iterables$5.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.970
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/LinkedHashMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.976
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Lists$TransformingRandomAccessList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.977
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Lists$TransformingSequentialList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.990
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$Accumulator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.991
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$AsMapView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.992
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$FilteredEntryBiMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.996
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$KeySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.996
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$NavigableAsMapView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.998
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$TransformedEntriesMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:01.999
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps$Values.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.001
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Maps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.004
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/MoreCollectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.004
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Multimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.009
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Multimaps$Keys.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.012
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Multimaps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.013
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Multiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.016
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Multisets.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.017
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/MutableClassToInstanceMap$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.023
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/RegularImmutableBiMap$Inverse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.029
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Sets$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.030
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Sets$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.030
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Sets$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.032
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Sets$Accumulator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.043
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/StandardTable$Row.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.044
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/StandardTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.047
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Streams.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.057
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/collect/Tables.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.176
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/hash/BloomFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.199
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/io/CharSource.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.227
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/primitives/ImmutableDoubleArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.229
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/primitives/ImmutableIntArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.231
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/primitives/ImmutableLongArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:02.269
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|com/google/common/util/concurrent/AtomicLongMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.377
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/AbstractConnectionPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.379
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/AuthenticationProtocolHandler$AuthenticationListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.382
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/DuplexConnectionPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.393
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/HttpProxy$CreateTunnelPromise.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.409
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/MultiplexConnectionPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.455
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/util/InputStreamResponseListener$Input.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.455
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/client/util/InputStreamResponseListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.495
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/http/MimeTypes.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.499
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/http/QuotedQualityCSV.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.509
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/io/AbstractConnection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.516
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/io/ClientConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.528
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/io/ManagedSelector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.529
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/io/MappedByteBufferPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.538
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/io/ssl/SslClientConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.564
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/SocketAddressResolver$Async.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.587
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/ssl/SslSelectionDump.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.588
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/statistic/CounterStatistic.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.588
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/statistic/SampleStatistic.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.590
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/thread/Invocable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.592
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/util/thread/QueuedThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.604
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/eclipse/jetty/websocket/client/WebSocketUpgradeRequest$ClientUpgradeRequestFacade.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.711
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/grid/internal/Registry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.720
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/grid/selenium/GridLauncherV3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.730
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/grid/web/servlet/HubW3CStatusServlet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.736
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/grid/web/servlet/handler/WebDriverRequest.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.741
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/ImmutableCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.742
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/MutableCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.751
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/chrome/ChromeOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.752
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/firefox/FirefoxBinary$Channel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.752
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/firefox/FirefoxBinary.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.753
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/firefox/FirefoxDriver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.755
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/firefox/FirefoxOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.761
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/firefox/internal/Executable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.766
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/htmlunit/HtmlUnitAlert.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.767
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/htmlunit/HtmlUnitDriver$HtmlUnitNavigation.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.772
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/htmlunit/HtmlUnitDriver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.780
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/ie/InternetExplorerOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.781
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/interactions/Actions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.787
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/interactions/MoveToOffsetAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.791
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/interactions/SendKeysAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.792
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/interactions/internal/KeysRelatedAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.793
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/interactions/internal/MouseAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.801
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/logging/LogCombiner.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.807
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/net/UrlChecker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.821
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/DesiredCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.823
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/ErrorCodes.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.824
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/ErrorHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.825
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/Gecko013ProtocolResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.828
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/JsonToBeanConverter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.828
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/JsonWireProtocolResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.829
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/ProtocolHandshake$Result.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.830
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/ProtocolHandshake.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.841
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/W3CHandshakeResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.845
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/http/HttpMessage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.847
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/http/W3CHttpCommandCodec.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.855
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/ActiveSessionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.856
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/ActiveSessions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.857
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/AllHandlers.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.858
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/CapabilitiesComparator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.859
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/DefaultDriverFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.860
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/DefaultDriverSessions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.862
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/DriverServlet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.865
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/InMemorySession.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.866
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/JsonHttpCommandHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.870
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/NewSessionPayload.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.871
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/Passthrough.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.871
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/ProtocolConverter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.873
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/ServicedSession$Factory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.877
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/WebDriverServlet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.878
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/commandhandler/ExceptionHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.878
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/commandhandler/GetAllSessions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.879
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/commandhandler/GetLogTypes.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.879
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/commandhandler/GetLogsOfType.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.880
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/commandhandler/UploadFile.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.882
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/handler/ConfigureTimeout.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.908
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/remote/server/rest/ResultConfig.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.918
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/events/EventFiringWebDriver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.924
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/ui/ExpectedConditions$38.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.925
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/ui/ExpectedConditions$39.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.926
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/ui/ExpectedConditions$45.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.927
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/ui/ExpectedConditions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.928
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/openqa/selenium/support/ui/FluentWait.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.942
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/http/MimeTypes.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.944
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/http/QuotedQualityCSV.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.948
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/io/AbstractConnection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.951
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/io/ClientConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.956
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/io/ManagedSelector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.956
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/io/MappedByteBufferPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.961
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/io/ssl/SslClientConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.964
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/jmx/ConnectorServer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.965
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/jmx/MBeanContainer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.968
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/security/HashLoginService.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:04.978
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/AsyncContextEvent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.002
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/NegotiatingServerConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.005
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/Request.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.006
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/ResourceService.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.007
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/Response.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.010
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/ShutdownMonitor$ShutdownMonitorRunnable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.011
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/SslConnectionFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.026
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/server/handler/ThreadLimitHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.084
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/SocketAddressResolver$Async.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.107
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/ssl/SslSelectionDump.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.107
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/statistic/CounterStatistic.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.108
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/statistic/SampleStatistic.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.110
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/thread/Invocable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-10-06 11:16:05.111
+!MESSAGE The Java indexing could not index /home/staqu/Tools/selenium-server-standalone-3.6.0.jar|org/seleniumhq/jetty9/util/thread/QueuedThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ui 4 0 2017-10-07 14:51:14.415
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (org.eclipse.swt.SWTError: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)])
+	at org.eclipse.swt.SWT.error(SWT.java:4083)
+	at org.eclipse.swt.SWT.error(SWT.java:3998)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:137)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3515)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3164)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2640)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2438)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:671)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:664)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:115)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:369)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:619)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:574)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1407)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1383)
+Caused by: org.eclipse.swt.SWTError: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+	at org.eclipse.swt.SWT.error(SWT.java:4109)
+	at org.eclipse.swt.browser.Mozilla.initMozilla(Mozilla.java:1739)
+	at org.eclipse.swt.browser.Mozilla.create(Mozilla.java:656)
+	at org.eclipse.swt.browser.Browser.<init>(Browser.java:119)
+	at org.eclipse.epp.usagedata.internal.ui.wizards.TermsOfUseWizardPage.createControl(TermsOfUseWizardPage.java:48)
+	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:170)
+	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:734)
+	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:606)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1089)
+	at org.eclipse.jface.window.Window.open(Window.java:790)
+	at org.eclipse.epp.usagedata.internal.ui.uploaders.AskUserUploader$1.run(AskUserUploader.java:65)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:164)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:158)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	... 23 more
