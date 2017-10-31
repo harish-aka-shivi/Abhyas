@@ -18,7 +18,7 @@
 <coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="68" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -45,6 +45,9 @@
 <part id="9"/>
 <part id="10"/>
 <part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
 </presentation>
 </folder>
 </info>
@@ -83,17 +86,28 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-one/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="472" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Coach.java" partName="Coach.java" path="/home/staqu/Projects/Algorithms/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/Coach.java" title="Coach.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/Coach.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Coach.java" partName="Coach.java" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/Coach.java" title="Coach.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/Coach.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/com/luv2code/springdemo/Coach.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AnnotationDemoApp.java" partName="AnnotationDemoApp.java" path="/home/staqu/Projects/Algorithms/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" title="AnnotationDemoApp.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AnnotationDemoApp.java" partName="AnnotationDemoApp.java" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" title="AnnotationDemoApp.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="536" selectionTopPixel="41"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TennisCoach.java" partName="TennisCoach.java" path="/home/staqu/Projects/Algorithms/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" title="TennisCoach.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TennisCoach.java" partName="TennisCoach.java" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" title="TennisCoach.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="558" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="645" selectionTopPixel="107"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FortuneService.java" partName="FortuneService.java" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java" title="FortuneService.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="84" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="applicationContext.xml" partName="applicationContext.xml" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/applicationContext.xml" title="applicationContext.xml" tooltip="spring-demo-annotation/src/applicationContext.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/applicationContext.xml"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HappyFortuneService.java" partName="HappyFortuneService.java" path="/home/staqu/Projects/Abhyas/misc_projects/spring_practice/spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java" title="HappyFortuneService.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="94" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -136,7 +150,8 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
+<expanded>
+<category IMemento.internal.id="Warnings (1 item)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -439,152 +454,163 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/spring-demo-one/src/beanScope-applicationContext.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/HelloSpringApp.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/TrackCoach.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/spring-demo-one/src/beanLifeCycle-applicationContext.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-one/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/spring-demo-one/src/applicationContext.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/Coach.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/spring-demo-annotation/src/applicationContext.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring-demo-annotation/src/com/luv2code/springdemo/Coach.java"/>
 </editors>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="679" y="0"/>
-</item>
-<item historyLabel="HelloSpringApp.java" index="2">
-<position info="not_deleted" x="214" y="105"/>
-</item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="305" y="0"/>
-</item>
-<item historyLabel="beanScope-applicationContext.xml" index="0"/>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="305" y="0"/>
-</item>
-<item historyLabel="beanScope-applicationContext.xml" index="0"/>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="305" y="0"/>
-</item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="241" y="0"/>
-</item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="612" y="0"/>
-</item>
-<item historyLabel="beanScope-applicationContext.xml" index="0"/>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="612" y="0"/>
-</item>
-<item historyLabel="HelloSpringApp.java" index="2">
-<position info="not_deleted" x="352" y="59"/>
-</item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="682" y="0"/>
-</item>
-<item historyLabel="HelloSpringApp.java" index="2">
-<position info="not_deleted" x="213" y="0"/>
-</item>
-<item historyLabel="SetterDemoApp.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="142" y="0"/>
-</item>
-<item historyLabel="beanScope-applicationContext.xml" index="0"/>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
-<position info="not_deleted" x="142" y="0"/>
-</item>
-<item historyLabel="TrackCoach.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SetterDemoApp.java" index="5">
-<position info="not_deleted" x="432" y="50"/>
-</item>
-<item historyLabel="TrackCoach.java" index="4">
-<position info="not_deleted" x="443" y="0"/>
-</item>
-<item historyLabel="beanLifeCycle-applicationContext.xml" index="6"/>
-<item historyLabel="TrackCoach.java" index="4">
-<position info="not_deleted" x="364" y="11"/>
-</item>
-<item historyLabel="beanLifeCycle-applicationContext.xml" index="6"/>
-<item historyLabel="TrackCoach.java" index="4">
+<item historyLabel="TrackCoach.java" index="1">
 <position info="not_deleted" x="457" y="11"/>
 </item>
-<item historyLabel="beanLifeCycle-applicationContext.xml" index="6"/>
-<item historyLabel="BeanLifeCycleDemoApp.java" index="7">
+<item historyLabel="beanLifeCycle-applicationContext.xml" index="2"/>
+<item historyLabel="BeanLifeCycleDemoApp.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
+<item historyLabel="BeanScopeDemoApp.java" index="0">
 <position info="not_deleted" x="190" y="121"/>
 </item>
-<item historyLabel="BeanLifeCycleDemoApp.java" index="7">
+<item historyLabel="BeanLifeCycleDemoApp.java" index="3">
 <position info="not_deleted" x="311" y="0"/>
 </item>
-<item historyLabel="BeanScopeDemoApp.java" index="1">
+<item historyLabel="BeanScopeDemoApp.java" index="0">
 <position info="not_deleted" x="312" y="59"/>
 </item>
-<item historyLabel="BeanLifeCycleDemoApp.java" index="7">
+<item historyLabel="BeanLifeCycleDemoApp.java" index="3">
 <position info="not_deleted" x="472" y="0"/>
 </item>
-<item historyLabel="TrackCoach.java" index="4">
+<item historyLabel="TrackCoach.java" index="1">
 <position info="not_deleted" x="457" y="11"/>
 </item>
-<item historyLabel="BeanLifeCycleDemoApp.java" index="7">
+<item historyLabel="BeanLifeCycleDemoApp.java" index="3">
 <position info="not_deleted" x="472" y="0"/>
 </item>
-<item historyLabel="applicationContext.xml" index="8"/>
-<item historyLabel="Coach.java" index="9">
+<item historyLabel="applicationContext.xml" index="4"/>
+<item historyLabel="Coach.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="317" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="516" y="50"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="452" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="516" y="50"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="289" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="536" y="0"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="289" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="536" y="0"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="558" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="536" y="0"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="785" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="536" y="0"/>
 </item>
-<item historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="558" y="0"/>
 </item>
-<item historyLabel="AnnotationDemoApp.java" index="11">
+<item historyLabel="AnnotationDemoApp.java" index="7">
 <position info="not_deleted" x="536" y="0"/>
 </item>
-<item active="true" historyLabel="TennisCoach.java" index="10">
+<item historyLabel="TennisCoach.java" index="6">
 <position info="not_deleted" x="558" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TennisCoach.java" index="6">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="AnnotationDemoApp.java" index="9">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="TennisCoach.java" index="6">
+<position info="not_deleted" x="502" y="185"/>
+</item>
+<item historyLabel="applicationContext.xml" index="10"/>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AnnotationDemoApp.java" index="9">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TennisCoach.java" index="6">
+<position info="not_deleted" x="645" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AnnotationDemoApp.java" index="9">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Coach.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="108" y="19"/>
+</item>
+<item historyLabel="AnnotationDemoApp.java" index="9">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="TennisCoach.java" index="6">
+<position info="not_deleted" x="645" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="94" y="0"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position/>
+</item>
+<item historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="34" y="49"/>
+</item>
+<item historyLabel="FortuneService.java" index="8">
+<position info="not_deleted" x="84" y="0"/>
+</item>
+<item active="true" historyLabel="HappyFortuneService.java" index="11">
+<position info="not_deleted" x="34" y="49"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -603,6 +629,15 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HappyFortuneService.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java">
+<persistable path="/spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="applicationContext.xml" tooltip="spring-demo-annotation/src/applicationContext.xml">
+<persistable path="/spring-demo-annotation/src/applicationContext.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FortuneService.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java">
+<persistable path="/spring-demo-annotation/src/com/luv2code/springdemo/FortuneService.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TennisCoach.java" tooltip="spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java">
 <persistable path="/spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java"/>
 </file>
@@ -638,15 +673,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="beanScope-applicationContext.xml" tooltip="spring-demo-one/src/beanScope-applicationContext.xml">
 <persistable path="/spring-demo-one/src/beanScope-applicationContext.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="applicationContext.xml" tooltip="spring-demo-one/src/applicationContext.xml">
-<persistable path="/spring-demo-one/src/applicationContext.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloSpringApp.java" tooltip="spring_demo_one/src/com/luv2code/springdemo/HelloSpringApp.java">
-<persistable path="/spring_demo_one/src/com/luv2code/springdemo/HelloSpringApp.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="applicationContext.xml" tooltip="spring_demo_one/src/applicationContext.xml">
-<persistable path="/spring_demo_one/src/applicationContext.xml"/>
 </file>
 </mruList>
 </workbench>

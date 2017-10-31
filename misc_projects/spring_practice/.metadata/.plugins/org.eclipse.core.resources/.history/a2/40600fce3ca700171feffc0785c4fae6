@@ -1,5 +1,0 @@
-When you extend an interface that contains a default method, you can do the following:
-
-    Not mention the default method at all, which lets your extended interface inherit the default method.
-    Redeclare the default method, which makes it abstract.
-    Redefine the default method, which overrides it.
