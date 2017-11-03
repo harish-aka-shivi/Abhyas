@@ -1,5 +1,8 @@
 package com.luv2code.springdemo;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
@@ -8,7 +11,6 @@ import org.springframework.stereotype.Component;
 
 
 @Component
-@Scope("prototype")
 public class TennisCoach implements Coach {
 	// auto wired injection
 	@Autowired
@@ -23,6 +25,19 @@ public class TennisCoach implements Coach {
 	
 	public TennisCoach()  {
 		System.out.println("inside def constructor");
+
+	}
+	
+	// defining the init method
+	@PostConstruct
+	public void doMyStartUpStuff() {
+		System.out.println("inside do my startup stuff, init");
+
+	}
+	
+	@PreDestroy
+	public void doMyCleaningStuff() {
+		System.out.println("inside do my cleaning stuff, destroy");
 
 	}
 //	@Autowired
@@ -64,6 +79,7 @@ public class TennisCoach implements Coach {
 	}
 	
 
+	
 	
 //	public void doSomeCrazyStuff() {
 //		
