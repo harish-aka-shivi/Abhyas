@@ -8,7 +8,9 @@
 /misc_projects/spring_practice/spring-demo-one/.settings/
 /misc_projects/spring_practice/spring-demo-one/bin/
 /misc_projects/spring_practice/RemoteSystemsTempFiles/
-/misc_projects/spring_practice/spring-mvc-demo/*
 /misc_projects/spring_practice/.metadata/.mylyn/
-!/misc_projects/spring_practice/spring-mvc-demo/src
-!/misc_projects/spring_practice/spring-mvc-demo/WebContent
+/misc_projects/spring_practice/Servers/
+/misc_projects/spring_practice/spring-mvc-demo/WebContent/WEB-INF/lib/
+/misc_projects/spring_practice/spring-mvc-demo/.classpath/*
+
+/misc_projects/spring_practice/spring-demo-annotation/bin/

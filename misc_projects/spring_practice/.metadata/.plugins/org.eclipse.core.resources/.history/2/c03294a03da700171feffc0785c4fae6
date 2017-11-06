@@ -1,9 +1,0 @@
-package com.luv2code.springdemo;
-
-public class TennisCoach implements Coach {
-
-	public String getDailyWorkout() {
-		return "Dont get tennis elbow";
-	}
-
-}
