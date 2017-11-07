@@ -11,6 +11,9 @@
 /misc_projects/spring_practice/.metadata/.mylyn/
 /misc_projects/spring_practice/Servers/
 /misc_projects/spring_practice/spring-mvc-demo/WebContent/WEB-INF/lib/
-/misc_projects/spring_practice/spring-mvc-demo/.classpath/*
+/misc_projects/spring_practice/spring-mvc-demo/.classpath
+/misc_projects/spring_practice/spring-mvc-demo/.project
+/misc_projects/spring_practice/spring-mvc-demo/.settings/*
+/misc_projects/spring_practice/spring-mvc-demo/build/*
 
 /misc_projects/spring_practice/spring-demo-annotation/bin/
