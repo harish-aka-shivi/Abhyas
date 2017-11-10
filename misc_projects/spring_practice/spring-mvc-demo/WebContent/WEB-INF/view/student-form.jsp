@@ -33,6 +33,21 @@
 	</form:select>
 	
 	
+	<br></br>
+	Favorite language
+	
+	Java <form:radiobutton path="favoriteLanguage" value = "java"/>
+	python <form:radiobutton path="favoriteLanguage" value = "python"/>
+	Java script <form:radiobutton path="favoriteLanguage" value = "javascript"/>
+	php <form:radiobutton path="favoriteLanguage" value = "php	"/>
+	
+		<br></br>
+	Operating Systems
+	Windows  <form:checkbox path="operatingSystems" value = "windows"/>
+		Linux  <form:checkbox path="operatingSystems" value = "linux"/>
+	
+		Mac  <form:checkbox path="operatingSystems" value = "mac"/>
+	
 	<input type = "submit" value = "Submit">
 	
 	
