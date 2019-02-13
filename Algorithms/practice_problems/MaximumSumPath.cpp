@@ -2,6 +2,7 @@
 // example : 1 3 5 6 7 and
 //           2 3 6 7 8 9
 // max sum  path would be 2+3+5+6+7+8+9 
+// can switch at common value points
 
 // Trick her is finding the itersection point
 using namespace std;

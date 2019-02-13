@@ -36,8 +36,9 @@ int heightOfTree(TreeNode<int>* root,int height = 0) {
         height++;
       }
       height = heightOfTree(root->children.at(i),height);
+      maxHeight = max(height, maxHeight)
     }
-
+   return maxheight + 1;
 
 }
 

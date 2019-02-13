@@ -38,10 +38,27 @@ void SortZeroesAndOne(int arr[], int n){
       cout << arr[l] << " ";
       l++;
     }
-
-
-
   }
+
+
+// this method sorts in O(n) time
+  void segregate0and1(int arr[]) { 
+        int type0 = 0; 
+        int type1 = arr.length - 1; 
+          
+        while (type0 < type1) { 
+            if (arr[type0] == 1) { 
+                // swap 
+                arr[type1] = arr[type1]+ arr[type0]; 
+                arr[type0] = arr[type1]-arr[type0]; 
+                arr[type1] = arr[type1]-arr[type0]; 
+                type1--; 
+            } else { 
+                type0++; 
+            } 
+        } 
+  
+    } 
 
 int main() {
   int n;
@@ -54,6 +71,10 @@ int main() {
   }
   SortZeroesAndOne(arr,n);
 }
+
+
+
+
 
 
 // there is one another way
