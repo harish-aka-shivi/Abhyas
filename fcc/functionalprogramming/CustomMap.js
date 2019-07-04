@@ -1,5 +1,5 @@
 // the global Array
-var s = [{a:23}, {a:65}, {a:98}, {a:5}];
+var s = [23, 65, 98, 5];
 
 Array.prototype.myMap = function(callback){
   var newArray = [];
@@ -7,7 +7,7 @@ Array.prototype.myMap = function(callback){
   console.log(this instanceof Array)
   this.forEach(function(item) {
     let a = callback(item)
-    newArray.push(at);
+    newArray.push(a);
   })
   // Add your code above this line
   return newArray;
@@ -15,10 +15,8 @@ Array.prototype.myMap = function(callback){
 };
 
 var new_s = s.myMap(function(item){
-  item.a = item.a * 2;
-  return item;
+  return item * 2;
 });
 
 
-console.log(JSON.stringify(s))
-console.log(JSON.stringify(new_s));
+console.log(new_s);
