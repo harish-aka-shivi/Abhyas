@@ -15,13 +15,13 @@ Some of the links I follow for ideas and motivation:
 
 ## Index
 
-* [Data structures implemention](https://github.com/harish-aka-shivi/Abhyas/tree/master/data_structures)
+* [Data structures implemention](https://github.com/harish-aka-shivi/Abhyas/tree/master/Algorithms/data_structures)
 
 With every language having a collection library we never really have to figure out the implemantations of various data-structures.
 But sometimes depending on our use case we can modify the standard implementation to really optimize the performance of programe.
 So understanding the implementation goes a long way in our journey as software developer.
 
-* [Search Engine](https://github.com/harish-aka-shivi/Abhyas/tree/master/mooc_projects/search_engine)
+* [Search Engine](https://github.com/harish-aka-shivi/Abhyas/tree/master/misc_projects/search_engine)
 
   * Fully working search engine made in python.
   * It implements the google's  page rank(initial implementation) algorithm to to refine the give the relevant searc reslts.
@@ -29,9 +29,9 @@ So understanding the implementation goes a long way in our journey as software d
      * [Intro to computer scince](https://www.udacity.com/course/intro-to-computer-science--cs101)
       * [Original paper](http://infolab.stanford.edu/~backrub/google.html)
     
-* [Basic Searching and Sorting Algorithm](https://github.com/harish-aka-shivi/Abhyas/tree/master/searching_sorting)
+* [Basic Searching and Sorting Algorithm](https://github.com/harish-aka-shivi/Abhyas/tree/master/Algorithms/seaching_sorting)
 
-* [Resume](https://github.com/harish-aka-shivi/Abhyas/tree/master/mooc_projects/resume)
+* [Online Resume](https://github.com/harish-aka-shivi/Abhyas/tree/master/misc_projects/resume)
   * Course followed: 
      * [Intro to javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 
