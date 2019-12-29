@@ -17,3 +17,4 @@
 /misc_projects/spring_practice/spring-mvc-demo/build/*
 
 /misc_projects/spring_practice/spring-demo-annotation/bin/
+*.class
